@@ -1,0 +1,19 @@
+<div id="tab-process">
+    <div class="flex p-4 border-b rounded-lg bg-gray-600">
+        <div id="update-process-list" class="flex flex-col justify-center items-center border rounded-lg w-24 h-11 cursor-pointer bg-red-600 hover:bg-red-500" title="List current process">
+            <span class="text-xs font-bold">Refresh</span>
+            <i class="fa-solid fa-arrow-rotate-right"></i>
+        </div>
+
+        <div class="flex ml-8">
+            <input id="input-text-process" type="text" id="first_name" class="bg-gray-50 border border-gray-300 text-black rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5" placeholder="filter by process name">
+            
+            <div id="btn-filter-process" class="flex ml-2 justify-center items-center border rounded-lg w-24 h-11 cursor-pointer bg-red-600 hover:bg-red-500" title="filter a process"><i class="fa-solid fa-magnifying-glass"></i>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <ul id="process-list" class="p-4"></ul>
+    </div>
+</div>

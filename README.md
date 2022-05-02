@@ -29,7 +29,7 @@ adb tcpip 5555
 <img src="https://raw.githubusercontent.com/elieser9001/adb-helper/main/examples/home.png" alt="drawing" width="800"/>
 </a>
 
-####Contacts
+#### Contacts
 <a href="https://raw.githubusercontent.com/elieser9001/adb-helper/main/examples/contacts.png" target="_blank">
 <img src="https://raw.githubusercontent.com/elieser9001/adb-helper/main/examples/contacts.png" alt="drawing" width="800"/>
 </a>

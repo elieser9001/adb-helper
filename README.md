@@ -55,4 +55,4 @@ adb tcpip 5555
 <img src="https://raw.githubusercontent.com/elieser9001/adb-helper/main/examples/shutdown.png" alt="drawing" width="800"/>
 </a>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/elieser9001?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/_netcat_?style=social)

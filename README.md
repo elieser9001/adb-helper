@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/elieser9001/adb-helper/main/examples/logo.png" alt="drawing" width="200"/>
 
-# Android ADB Helper 
+# Android ADB Helper
+
+#### Aplicacion para Escritorio en Linux
 
 ### Features
 
@@ -54,5 +56,3 @@ adb tcpip 5555
 <a href="https://raw.githubusercontent.com/elieser9001/adb-helper/main/examples/shutdown.png" target="_blank">
 <img src="https://raw.githubusercontent.com/elieser9001/adb-helper/main/examples/shutdown.png" alt="drawing" width="800"/>
 </a>
-
-![Twitter Follow](https://img.shields.io/twitter/follow/_netcat_?style=social)

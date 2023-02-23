@@ -2,7 +2,7 @@
 
 # Android ADB Helper
 
-#### Aplicacion para Escritorio en Linux
+#### Aplicación para Escritorio en Linux
 
 ### Features
 
